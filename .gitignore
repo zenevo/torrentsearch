@@ -1,0 +1,6 @@
+*.o
+moc_*
+*.rpm
+*.tar.gz
+build/
+/torrentsearch

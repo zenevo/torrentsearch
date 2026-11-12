@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/cover/CoverPage.qml</file>
+        <file>qml/pages/SearchPage.qml</file>
+        <file>qml/pages/TorrentPage.qml</file>
+    </qresource>
+</RCC>

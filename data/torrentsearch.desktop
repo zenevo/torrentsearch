@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Torrent Search
+Icon=torrentsearch
+Exec=torrentsearch
+X-Nemo-Application-Type=silica-qt5
